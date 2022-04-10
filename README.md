@@ -14,7 +14,7 @@ Devido a isso, comecei a Graduação em Engenharia de Software.
 <div>
 <a href="https://www.youtube.com/channel/UCQhQ7FlMPhQoVQ2mGknsf5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:deconstantino@hotmail.com"><img src="<i class="fa-solid fa-at"></i>" target="_blank"></a>
-<a href="https://www.linkedin.com/in/adelina-constantino-0999a825/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/adelina-constantino-0999a825/" target="_blank"><img src="https://s2.glbimg.com/gm1oDECB-TIG4iIXJaNY4kTZU68=/0x0:695x404/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/R/b/zoAr0xR5OmaNH3YW2jtw/2015-08-10-microsoft-outlook-com.jpg" target="_blank"></a>   
 </div>
 
 
