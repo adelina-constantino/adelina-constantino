@@ -7,8 +7,6 @@ Devido a isso, comecei a Graduação em Engenharia de Software.
 
 - Meu principal foco no momento são formações voltadas pra programação em JavaScript e PHP pois são as linguagens que utilizo no meu dia a dia, porém, sigo aprendendo e busco me atualizar a cada dia.
 
-- ⚡ Curiosidade: Sou estudante do 5º semestre de Pedagogia e 1º semestre em Design Gráfico, vida corrida rs 😄
-
 --> ### Contatos:
 
 <div>
